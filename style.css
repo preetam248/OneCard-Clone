@@ -300,6 +300,9 @@ nav input[type="checkbox"] {
     html, body {
         font-size: smaller;
     }
+    .section-two p {
+        text-align: center;
+    }
 }
 
 footer {
